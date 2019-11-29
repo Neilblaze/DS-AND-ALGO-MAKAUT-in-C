@@ -1,3 +1,8 @@
+# DATA STRUCTURE AND ALGORITHMS FOR MAKAUT IN C
+
+
+## ADDITIONALS:
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Neilblaze/DS-AND-ALGO-MAKAUT-in-C/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
